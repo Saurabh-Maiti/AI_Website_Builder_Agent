@@ -294,11 +294,5 @@ Contributions, suggestions, and feature requests are welcome.
 5. Open a Pull Request.
 
 ## Author
+Saurabh Maiti
 
-**Saurabh Maiti**
-
-Software Engineer | Java | Spring Boot | AI Engineering
-
----
-
-*Built with Java, Spring Boot, Spring AI, and OpenRouter.*
